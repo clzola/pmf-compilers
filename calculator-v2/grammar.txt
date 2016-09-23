@@ -1,0 +1,5 @@
+input -> epsilon | input line
+line -> EOL | expr EOL
+expr -> fn ( expr ) | expr op expr | -expr | ( expr )
+fn -> sin | cos | log | exp | sqrt
+op -> + | - | * | / | ^
