@@ -1,5 +1,7 @@
 # pmf-compilers
 
+Working solutions for homeworks and finals from course **Compiles** at Faculty of Mathematics and Natural Sciences, University of Montenegro
+
 # MIPS Examples
 
 * mips-binomial
